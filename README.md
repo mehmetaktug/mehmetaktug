@@ -2,10 +2,12 @@
 
 <img src="assets/banner.svg" alt="Mehmet Aktug, Co-founder and COO at Zeo, Generative AI and GEO" width="100%">
 
-[![Website](https://img.shields.io/badge/website-mehmetaktug.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mehmetaktug.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-mehmetaktug-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetaktug/)
-[![X](https://img.shields.io/badge/x-@mehmetaktug-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mehmetaktug)
-[![Zeo](https://img.shields.io/badge/zeo.org-company-22D3EE?style=for-the-badge)](https://zeo.org)
+<br>
+
+<a href="https://mehmetaktug.com"><img alt="Website" src="https://img.shields.io/badge/mehmetaktug.com-141a35?style=flat-square&logo=googlechrome&logoColor=a78bfa&labelColor=141a35&color=141a35"></a>
+<a href="https://www.linkedin.com/in/mehmetaktug/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-141a35?style=flat-square&logo=linkedin&logoColor=22d3ee&labelColor=141a35&color=141a35"></a>
+<a href="https://x.com/mehmetaktug"><img alt="X" src="https://img.shields.io/badge/@mehmetaktug-141a35?style=flat-square&logo=x&logoColor=white&labelColor=141a35&color=141a35"></a>
+<a href="https://zeo.org"><img alt="Zeo" src="https://img.shields.io/badge/zeo.org-141a35?style=flat-square&labelColor=141a35&color=141a35"></a>
 
 </div>
 
