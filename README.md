@@ -4,10 +4,10 @@
 
 <br>
 
-<a href="https://mehmetaktug.com"><img alt="Website" src="https://img.shields.io/badge/mehmetaktug.com-141a35?style=flat-square&logo=googlechrome&logoColor=a78bfa&labelColor=141a35&color=141a35"></a>
-<a href="https://www.linkedin.com/in/mehmetaktug/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-141a35?style=flat-square&logo=linkedin&logoColor=22d3ee&labelColor=141a35&color=141a35"></a>
-<a href="https://x.com/mehmetaktug"><img alt="X" src="https://img.shields.io/badge/@mehmetaktug-141a35?style=flat-square&logo=x&logoColor=white&labelColor=141a35&color=141a35"></a>
-<a href="https://zeo.org"><img alt="Zeo" src="https://img.shields.io/badge/zeo.org-141a35?style=flat-square&labelColor=141a35&color=141a35"></a>
+<a href="https://mehmetaktug.com"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-mehmetaktug.com-1a0b2e?style=flat-square&labelColor=ff2a6d&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mehmetaktug/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-mehmetaktug-1a0b2e?style=flat-square&labelColor=05d9e8&logo=linkedin&logoColor=1a0b2e"></a>
+<a href="https://x.com/mehmetaktug"><img alt="X" src="https://img.shields.io/badge/X-@mehmetaktug-1a0b2e?style=flat-square&labelColor=9d4edd&logo=x&logoColor=white"></a>
+<a href="https://zeo.org"><img alt="Zeo" src="https://img.shields.io/badge/COMPANY-zeo.org-1a0b2e?style=flat-square&labelColor=ff9a3c"></a>
 
 </div>
 
