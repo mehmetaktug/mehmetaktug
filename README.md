@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-retro.svg" alt="Mehmet Aktug, Co-founder and COO at Zeo, Generative AI and GEO" width="100%">
+<img src="assets/banner-synthwave.svg" alt="Mehmet Aktug, Co-founder and COO at Zeo, Generative AI and GEO" width="100%">
 
 <br>
 
